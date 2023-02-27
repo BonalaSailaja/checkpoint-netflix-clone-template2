@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/checkpoint-netflix-clone-template2/static/css/main.ceae699f.css",
+    "main.js": "/checkpoint-netflix-clone-template2/static/js/main.2db54335.js",
+    "index.html": "/checkpoint-netflix-clone-template2/index.html",
+    "main.ceae699f.css.map": "/checkpoint-netflix-clone-template2/static/css/main.ceae699f.css.map",
+    "main.2db54335.js.map": "/checkpoint-netflix-clone-template2/static/js/main.2db54335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceae699f.css",
+    "static/js/main.2db54335.js"
+  ]
+}

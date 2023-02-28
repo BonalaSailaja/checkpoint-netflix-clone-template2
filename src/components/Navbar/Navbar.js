@@ -1,6 +1,6 @@
 // import { useEffect, useState } from "react";
 import "./Navbar.css";
-// import logo from "./public/nav__logo";
+
 import logo from "./netflix-logo.png";
 import logo2 from "./Netflix-avatar.png";
 
@@ -12,12 +12,9 @@ const Navbar = () => {
 
   return (
     <div className="nav">
-      {/* <div className="nav__logo"> */}
-      <img src={logo} alt="NetflixLogo" className="nav__logo" />
-      {/* </div> */}
-      {/* <div className="nav__avatar"> */}
+      <img src={logo} alt="Logo" className="nav__logo" />
       <img src={logo2} alt="avatar" className="nav__avatar" />
-      {/* </div> */}
+      
     </div>
   );
 };

@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/checkpoint-netflix-clone-template2/static/css/main.ceae699f.css",
-    "main.js": "/checkpoint-netflix-clone-template2/static/js/main.2db54335.js",
+    "main.css": "/checkpoint-netflix-clone-template2/static/css/main.166b4559.css",
+    "main.js": "/checkpoint-netflix-clone-template2/static/js/main.3b1221b3.js",
+    "static/media/netflix-logo.png": "/checkpoint-netflix-clone-template2/static/media/netflix-logo.96c57697faa493a4602e.png",
     "index.html": "/checkpoint-netflix-clone-template2/index.html",
-    "main.ceae699f.css.map": "/checkpoint-netflix-clone-template2/static/css/main.ceae699f.css.map",
-    "main.2db54335.js.map": "/checkpoint-netflix-clone-template2/static/js/main.2db54335.js.map"
+    "main.166b4559.css.map": "/checkpoint-netflix-clone-template2/static/css/main.166b4559.css.map",
+    "main.3b1221b3.js.map": "/checkpoint-netflix-clone-template2/static/js/main.3b1221b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceae699f.css",
-    "static/js/main.2db54335.js"
+    "static/css/main.166b4559.css",
+    "static/js/main.3b1221b3.js"
   ]
 }
